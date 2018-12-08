@@ -134,7 +134,7 @@
 
 - (NSInteger)calendar:(FSCalendar *)calendar numberOfEventsForDate:(NSDate *)date
 {
-    return 2;
+    return 5;
 }
 
 #pragma mark - FSCalendarDelegate
